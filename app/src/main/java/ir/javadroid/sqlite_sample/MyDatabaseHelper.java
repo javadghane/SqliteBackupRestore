@@ -18,6 +18,7 @@ public class MyDatabaseHelper extends SQLiteOpenHelper {
     private static final String TBL_NAME = "private_info";
     private static final String TBL_NAME2 = "user_info";
 
+
     private static int DB_VERSION = 3;
 
 
